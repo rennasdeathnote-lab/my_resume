@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <title>رزومه من | تمرین جلسه دوم</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="resume-container">
+        <h1>رزومه حرفه‌ای</h1>
+        <p>ایمیل: cadollena@gmail.com</p>
+        <hr>
+        <h2>مهارت‌های فنی</h2>
+        <ul>
+            <li>HTML5 & CSS3</li>
+            <li>Bootstrap 4</li>
+            <li>Tailwind CSS</li>
+            <li>WordPress Management</li>
+        </ul>
+    </div>
+</body>
+</html>
